@@ -36,4 +36,4 @@ services:
     volumes:
       - static_kittygram:/static
       - static_kittygram:/backend_static
-      - media_kittygram:/mediafiles/
+      - media_kittygram:/media
