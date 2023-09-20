@@ -37,4 +37,3 @@ services:
       - static_kittygram:/static
       - static_kittygram:/backend_static
       - media_kittygram:/media
-
